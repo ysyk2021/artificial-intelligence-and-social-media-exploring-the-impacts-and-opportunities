@@ -1,4 +1,4 @@
-Role of AI in Social Media - Challenges and Limitations of AI in Social Media
+Challenges and Limitations of AI in Social Media
 ========================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize social media by enabling personalized content delivery, targeted advertising, and improved customer engagement. However, there are also challenges and limitations associated with the use of AI in social media.
