@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 In this chapter, we will provide an overview of the background and fundamentals of Artificial Intelligence (AI), including its history, types, and machine learning techniques.
 

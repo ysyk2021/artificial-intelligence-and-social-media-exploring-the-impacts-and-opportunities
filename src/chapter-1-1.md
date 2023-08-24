@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Social Media
-=============================================================================
 
 Artificial intelligence (AI) and social media are two of the most significant technological developments of the 21st century. Both have transformative potential, and together they are reshaping the way we communicate, interact, and make decisions.
 

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will explore the fundamentals of artificial intelligence, with a focus on machine learning techniques. Machine learning is a core component of AI and is an essential tool for understanding and analyzing social media data.
 

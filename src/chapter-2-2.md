@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will explore the different types of artificial intelligence. AI is a rapidly developing field, and there are several different approaches to developing intelligent systems.
 

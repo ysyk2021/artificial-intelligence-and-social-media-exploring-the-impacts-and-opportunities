@@ -1,5 +1,3 @@
-Social Listening and Sentiment Analysis
-=====================================================================================
 
 In this chapter, we will explore the ways in which AI technologies are being used to power social media solutions such as social listening and sentiment analysis. We will discuss the benefits of these solutions, as well as some of the key challenges that need to be addressed.
 

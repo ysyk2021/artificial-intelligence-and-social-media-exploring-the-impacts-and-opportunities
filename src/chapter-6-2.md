@@ -1,5 +1,3 @@
-Legal Framework
-==================================================================================
 
 In this chapter, we will explore the legal framework surrounding the use of artificial intelligence (AI) in social media. As AI technologies become more prevalent in social media, it is important to consider the legal implications of their use and ensure that businesses and organizations are complying with relevant laws and regulations.
 

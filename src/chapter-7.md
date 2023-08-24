@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Social Media
-========================================
 
 As we move into the future, there is no doubt that Artificial Intelligence (AI) will continue to play an increasingly important role in social media. In this chapter, we will explore some of the emerging trends and future prospects for AI in social media.
 

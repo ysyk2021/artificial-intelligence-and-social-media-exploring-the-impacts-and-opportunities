@@ -1,5 +1,3 @@
-Chapter 3: Social Media Landscape
-=================================
 
 In this chapter, we will explore the current social media landscape, including global trends in social media usage and engagement, as well as the components of social media.
 

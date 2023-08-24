@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Social Media
-=====================================
 
 Artificial Intelligence (AI) is rapidly transforming the social media landscape, providing new opportunities for personalized content delivery, enhanced user engagement, and strategic decision-making. In this chapter, we will explore the role of AI in social media, including the benefits, challenges, and limitations of this technology.
 

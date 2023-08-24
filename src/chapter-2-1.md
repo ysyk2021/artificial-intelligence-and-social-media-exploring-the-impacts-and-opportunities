@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has its roots in early computer science, with early research on pattern recognition and machine learning dating back to the 1940s and 1950s. However, it was not until the development of digital computers in the 1960s that AI began to emerge as a distinct field of research.
 

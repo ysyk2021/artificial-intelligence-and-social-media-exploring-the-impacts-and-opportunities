@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Social Media
-=================================================================
 
 As Artificial Intelligence (AI) becomes increasingly integrated into social media platforms, there are growing concerns about the ethical and legal implications of these technologies. In this chapter, we will explore some of the key ethical considerations and legal frameworks related to AI in social media.
 

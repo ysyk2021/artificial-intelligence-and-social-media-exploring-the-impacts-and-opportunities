@@ -1,5 +1,3 @@
-Components of Social Media
-=============================================================
 
 Social media has become an increasingly important part of our lives, shaping the way we communicate, connect, and share information. In this chapter, we will explore the components of social media and examine how these components work together to create the social media landscape that we are familiar with today.
 

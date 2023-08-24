@@ -1,5 +1,3 @@
-User Profiling and Personalization
-================================================================================
 
 In this chapter, we will explore how artificial intelligence (AI) is being used to create AI-powered social media solutions that enable user profiling and personalization. By leveraging AI technologies, social media platforms can deliver highly tailored content and experiences to individual users, increasing engagement and improving user satisfaction.
 

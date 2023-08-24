@@ -1,5 +1,3 @@
-Content Generation and Curation
-=============================================================================
 
 In this chapter, we will explore how artificial intelligence (AI) is being used to create AI-powered social media solutions that enable content generation and curation. By leveraging AI technologies, social media platforms can create, curate, and deliver highly relevant and engaging content to their users, increasing engagement and improving user satisfaction.
 

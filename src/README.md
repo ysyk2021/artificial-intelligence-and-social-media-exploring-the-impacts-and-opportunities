@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) has become increasingly prevalent in our daily lives, and social media is no exception. AI has the potential to revolutionize social media by enabling personalized content delivery, targeted advertising, and improved customer engagement. "Artificial Intelligence and Social Media: Exploring the Impacts and Opportunities of Intelligent Technologies in Social Media" provides an overview of the role of AI in social media and its impacts on marketing, communication, and customer experience.
 
