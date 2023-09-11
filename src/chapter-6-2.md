@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal framework surrounding the use of artificial intelligence (AI) in social media and the implications it has on privacy, data protection, content moderation, and other legal aspects. As intelligent technologies continue to shape the landscape of social media, it is essential to understand and address the legal considerations and challenges that arise. Let's delve into the key aspects of the legal framework related to AI in social media.
 
